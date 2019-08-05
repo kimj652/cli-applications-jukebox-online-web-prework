@@ -25,7 +25,7 @@ def list(array)
   }
 end
 
-def play
+def play(array)
 end
 
 def exit_jukebox
