@@ -20,7 +20,7 @@ def help
 end
 
 def list
-  songs.each_with_index { |i,item|
+  songs.each_with_index { |item, i|
     puts "#{}. #{}"
   }
 end
