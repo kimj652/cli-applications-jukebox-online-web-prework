@@ -27,6 +27,7 @@ end
 
 def play(array)
   until input != nil 
+  puts
 end
 end
 
