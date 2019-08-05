@@ -28,6 +28,7 @@ end
 def play(array)
   until input != nil 
   puts "Please enter a song name or number:"
+  input = gets.strip
 end
 end
 
