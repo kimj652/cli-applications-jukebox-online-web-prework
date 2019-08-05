@@ -27,7 +27,7 @@ end
 
 def play(array)
   until input != nil 
-  puts
+  puts "Please enter a song name or number:"
 end
 end
 
