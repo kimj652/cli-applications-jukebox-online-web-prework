@@ -21,7 +21,7 @@ end
 
 def list
   songs.each_with_index { |item, i|
-    puts "#{}. #{}"
+    puts "#{i+1}. #{}"
   }
 end
 
