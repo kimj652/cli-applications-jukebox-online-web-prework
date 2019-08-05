@@ -30,7 +30,7 @@ def play(array)
   puts "Please enter a song name or number:"
   input = gets.strip
   
-  valid = array.find { |i| i == }
+  valid = array.find { |i| i == array}
   
   end
 end
