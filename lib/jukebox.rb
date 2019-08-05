@@ -21,7 +21,7 @@ end
 
 def list
   songs.each_with_index { ||
-    
+    puts 
   }
 end
 
