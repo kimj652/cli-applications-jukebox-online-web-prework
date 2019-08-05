@@ -21,7 +21,7 @@ end
 
 def list(array)
   array.each_with_index { |item, i|
-    puts "#{i+1}. #{song}"
+    puts "#{i+1}. #{item}"
   }
 end
 
