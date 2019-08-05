@@ -26,9 +26,11 @@ def list(array)
 end
 
 def play(array)
+  until input 
 end
 
 def exit_jukebox
+  puts "Goodbye"
 end
 
 def run
