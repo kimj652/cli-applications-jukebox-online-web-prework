@@ -26,7 +26,7 @@ def list(array)
 end
 
 def play(array)
-  until input 
+  until input != nil
 end
 
 def exit_jukebox
