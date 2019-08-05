@@ -20,8 +20,8 @@ def help
 end
 
 def list
-  songs.each_with_index { ||
-    puts 
+  songs.each_with_index { |i|
+    puts "#{}. #{}"
   }
 end
 
