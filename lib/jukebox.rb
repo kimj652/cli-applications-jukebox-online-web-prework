@@ -32,7 +32,7 @@ def play(array)
   
   valid = array.find { |i| input == array[i] || input.to_i - 1 == i}
   if valid != nil
-    
+    puts "Playing 
   
   end
 end
