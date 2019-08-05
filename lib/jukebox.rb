@@ -20,7 +20,7 @@ def help
 end
 
 def list(array)
-  songs.each_with_index { |song, i|
+  array.each_with_index { |item, i|
     puts "#{i+1}. #{song}"
   }
 end
